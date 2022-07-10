@@ -6,13 +6,13 @@ WIP
 
 ## Ports
 ### EDIs/DEs
-[Helix](https://github.com/helix-editor/helix/wiki/Themes#meliora)
-[Neovim](https://github.com/meliora-theme/neovim)
+- [Helix](https://github.com/helix-editor/helix/wiki/Themes#meliora)
+- [Neovim](https://github.com/meliora-theme/neovim)
 
 ## Contributing ports
 Instructions are a WIP, for now just submit an issue for a port if you've made one.
 
-## inspiration
+## Inspiration
 Mostly inspired by these great themes:
 - [Mountain and Mountaineer](https://github.com/mountain-theme/mountain)
 - [Alduin](https://github.com/alessandroyorba/alduin)
