@@ -5,7 +5,7 @@ Warm and cozy
 WIP
 
 ## Ports
-### EDIs/DEs
+### IDEs/DEs
 - [Helix](https://github.com/helix-editor/helix/wiki/Themes#meliora)
 - [Neovim](https://github.com/meliora-theme/neovim)
 
