@@ -41,7 +41,10 @@ Warm and cozy
 - [Neovim](https://github.com/meliora-theme/neovim)
 
 ## Contributing ports
-Instructions are a WIP, for now just submit an issue for a port if you've made one.
+1. Use [this template](https://github.com/meliora-theme/template) to create new repository.
+2. Use [meliora colors](https://github.com/meliora-theme/theme#color-palette) for your theme (for code, match the roles)
+3. Submit an issue
+4. Once the theme is accepted, I will move the repository under the meliora-theme organization and give you rights to maintain it.
 
 ## Inspiration
 Mostly inspired by these great themes:
