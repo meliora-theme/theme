@@ -44,8 +44,7 @@ Warm and cozy
 ## Contributing ports
 1. Use [this template](https://github.com/meliora-theme/template) to create new repository.
 2. Use [meliora colors](https://github.com/meliora-theme/theme#color-palette) for your theme (for code, match the roles)
-3. Submit an issue
-4. Once the theme is accepted, I will move the repository under the meliora-theme organization and give you rights to maintain it.
+3. Submit an [issue](https://github.com/meliora-theme/theme/issues/new?assignees=&labels=add+port&template=add-port.yml&title=New+port+for+%3Capp%3E)
 
 ## Inspiration
 Mostly inspired by these great themes:
