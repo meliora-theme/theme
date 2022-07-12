@@ -4,7 +4,7 @@
 
 name: Add port
 description: Add your port to meliora theme ports collection.
-title: New port for <app>
+title: "New port for <app>"
 labels: ["add port"]
 body:
   - type: input

@@ -4,7 +4,7 @@
 
 name: Port request
 description: Suggest a new theme
-title: Theme request for <app>
+title: "Port request for <app>"
 labels: ["port request"]
 body:
   - type: input
