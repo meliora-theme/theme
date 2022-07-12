@@ -9,7 +9,7 @@ labels: ["add port"]
 body:
   - type: input
     attributes:
-      label: Link to theme repo
+      label: Link to port repo
     validations:
       required: true
   - type: dropdown
