@@ -1,0 +1,31 @@
+# Thanks to rose-pine theme.
+# license: https://github.com/rose-pine/rose-pine-site/blob/main/license
+# source: https://github.com/rose-pine/rose-pine-theme/blob/main/.github/ISSUE_TEMPLATE/add-theme.yml
+
+name: Add theme
+description: Add your theme to meliora theme collection.
+title: New theme for <app>
+body:
+  - type: input
+    attributes:
+      label: Link to theme repo
+    validations:
+      required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What would you like to do with your repo?
+      description: If moved into the meliora theme organization, you will be added as a maintainer
+      multiple: false
+      options:
+        - Transfer my repo into the meliora-theme organization
+        - Duplicate (clone) my repo to meliora-theme organization
+        - Keep my repo under my personal account
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional information
+    validations:
+      required: false
+
