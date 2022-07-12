@@ -8,6 +8,7 @@ Warm and cozy
 | Red         | Main keywords (if/else/return)| `#d49191` | ![Color box](https://via.placeholder.com/24/d49191/d49191.png)            |
 | Orange      | Other keywords                | `#cdab89` | ![Color box](https://via.placeholder.com/24/cdab89/cdab89.png)            |
 | Yellow      | Strings                       | `#c4b392` | ![Color box](https://via.placeholder.com/24/c4b392/c4b392.png)            |
+| Khaki       | Types, delimiters             | `#bcaa9a` | ![Color box](https://via.placeholder.com/24/bcaa9a/bcaa9a.png)            |
 | Blue        | Functions                     | `#9e96b6` | ![Color box](https://via.placeholder.com/24/9e96b6/9e96b6.png)            |
 | Purple      | Constants, enums              | `#b696b1` | ![Color box](https://via.placeholder.com/24/b696b1/b696b1.png)            |
 | Green       | Comments like `FIX:`          | `#b6b696` | ![Color box](https://via.placeholder.com/24/b6b696/b6b696.png)            |
