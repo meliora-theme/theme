@@ -2,9 +2,10 @@
 # license: https://github.com/rose-pine/rose-pine-site/blob/main/license
 # source: https://github.com/rose-pine/rose-pine-theme/blob/main/.github/ISSUE_TEMPLATE/add-theme.yml
 
-name: Add theme
-description: Add your theme to meliora theme collection.
-title: New theme for <app>
+name: Add port
+description: Add your port to meliora theme ports collection.
+title: New port for <app>
+labels: ["add port"]
 body:
   - type: input
     attributes:
@@ -18,8 +19,8 @@ body:
       description: If moved into the meliora theme organization, you will be added as a maintainer
       multiple: false
       options:
-        - Transfer my repo into the meliora-theme organization
-        - Duplicate (clone) my repo to meliora-theme organization
+        - Transfer my repo into the meliora theme organization
+        - Duplicate (clone) my repo to meliora theme organization
         - Keep my repo under my personal account
     validations:
       required: true

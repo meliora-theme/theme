@@ -2,9 +2,10 @@
 # license: https://github.com/rose-pine/rose-pine-site/blob/main/license
 # source: https://github.com/rose-pine/rose-pine-theme/blob/main/.github/ISSUE_TEMPLATE/theme-request.yml 
 
-name: Theme request
+name: Port request
 description: Suggest a new theme
 title: Theme request for <app>
+labels: ["port request"]
 body:
   - type: input
     attributes:
