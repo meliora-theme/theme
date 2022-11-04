@@ -1,3 +1,5 @@
+This repo is no longer used. Refer to [meliora.nvim](https://github.com/ramojus/meliora.nvim)
+
 # Meliora theme
 Warm and cozy
 
